@@ -1,0 +1,35 @@
+@import "antd/dist/antd.css";
+@import "bootstrap/dist/css/bootstrap.css";
+
+.ant-layout-header {
+  background-color: #ffffff;
+}
+
+.site-layout {
+  padding: 0px 50px;
+  margin-top: 64px;
+  min-width: 700px;
+  margin: 50px auto;
+  background: #fff;
+}
+
+.pool-card {
+  margin: 0 auto 30px auto;
+  background: #f0f2f56e;
+}
+.user-info {
+  border: 1px solid #ddd;
+  background: #f0f2f5;
+  text-align: center;
+  padding: 20px 0;
+  margin: 20px 0;
+}
+
+.user-info span {
+  margin: 0 15px;
+}
+
+.input-wrapper input {
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+}

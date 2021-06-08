@@ -1,0 +1,21 @@
+.custome_header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.custome_header .left-side {
+  display: flex;
+}
+
+.custome_header .left-side .user {
+  display: flex;
+  align-items: center;
+}
+
+.custome_header .left-side .user img {
+  display: inline-block;
+  margin: 0 5px;
+}
+.custome_header .left-side .logout {
+  margin: 0 15px;
+}
